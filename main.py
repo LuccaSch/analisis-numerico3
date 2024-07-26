@@ -243,7 +243,6 @@ plt.show()
 #PRUEBA CON NEWTON-SECANTE
 
 #Cantidad de iteraciones promedio para NS
-
 it_promedio_NS= sum(it1)/10
 
 #paso de segundo a microsegundo y trunco en 2 decimales dsps de la coma
